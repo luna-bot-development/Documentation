@@ -21,7 +21,7 @@ Welcome to Luna Discord Bot ("the Bot"). These Terms of Service ("Terms") govern
 We reserve the right to modify or update the Bot's features, functions, or these Terms at any time. We will make reasonable efforts to notify you of significant changes. Your continued use of the Bot after any changes to the Terms constitutes your acceptance of the updated Terms.
 
 ### 4. Privacy:
-**4.1:** We may collect and process certain information about your use of the Bot in accordance with our Privacy Policy. By using the Bot, you consent to such collection and processing and warrant that all data provided by you is accurate.
+**4.1:** We may collect and process certain information about your use of the Bot in accordance with our [Privacy Policy](PRIVACY_POLICY.md). By using the Bot, you consent to such collection and processing and warrant that all data provided by you is accurate.
 
 **4.2:** We will not share your Discord server data with third parties unless required by law or as described in our Privacy Policy.
 
