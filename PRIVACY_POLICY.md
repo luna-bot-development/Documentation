@@ -22,7 +22,7 @@ Welcome to Luna Discord Bot ("the bot), owned and operated by Luna Bot Developme
 
 **2.5: Information Requests:**
 
-- Users can request all information stored about them by emailing gekko.bot.devteam@gmail.com. Upon receipt of a valid information request, we will promptly send all pertinent information pertaining to your guild from our database to you within 30 days.
+- Users can request all information stored about them by emailing `lunadevelopment09@gmail.com` Upon receipt of a valid information request, we will promptly send all pertinent information pertaining to your guild from our database to you within 30 days.
 
 - In order to process your data request, you will need to provide the following within your request:
 
