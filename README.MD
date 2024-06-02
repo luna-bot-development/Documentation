@@ -1,4 +1,3 @@
-https://i.imgur.com/h39eZXg.png
 # Luna Documentation
 ```
 While our bot is currently in Alpha stages, our documentation will be very limited and some areas will bot be accessible at this time
