@@ -7,7 +7,7 @@
 Welcome to Luna Discord Bot ("the bot), owned and operated by Luna Bot Development ("we, our, or "us"). This privacy policy outlines how we collect, use, and protect your personal information in connection with your use of the bot. By using the bot, you consent to the practices described in this privacy policy. 
 
 ### 2. Information We Collect:
-**2.1: User Messages: **
+**2.1: User Messages:**
 - At this present stage, we do not store or collect any user messages. If this were to change in future development, we will update our privacy policy accordingly and send out an announcement in our development server regarding the change. 
 
 **2.2: Guild-specific Data:**
