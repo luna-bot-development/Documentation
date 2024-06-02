@@ -15,5 +15,5 @@ On this website, you'll find a comprehensive overview of the bot's entire workfl
 # Important Links:
 - [Discord Support Server](https://discord.gg/H7SxEzdYuz)
 - [Invite our Bot](https://discord.com/oauth2/authorize?client_id=1244752272873754626)
-- Privacy policy goes here [Not completed]
-- Terms of services go here [Not completed]
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Terms of Services](TERMS_OF_SERVICE.md)
