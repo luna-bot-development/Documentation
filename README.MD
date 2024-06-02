@@ -4,8 +4,7 @@ https://i.imgur.com/h39eZXg.png
 While our bot is currently in Alpha stages, our documentation will be very limited and some areas will bot be accessible at this time
 ```
 # About Luna and our Features:
-Luna is your brand new Discord Companion! Packed with utility commands for easy server management, Luna is designed to elevate your Discord experience, and give you the best use of Discords API.  
-
+Luna is your brand new Discord Companion! Packed with utility commands for easy server management, Luna is designed to elevate your Discord experience, and give you the best use of Discords API.
 With a vast array of commands and customization settings, Luna offers a multi-purpose, user-friendly Discord Bot experience that enhances every aspect of your server interactions. If you're still using bots like Mee6, this bot is for you! Join the Luna revolution today and discover a whole new world of Discord enjoyment!
 ---
 # About our Documentation:
